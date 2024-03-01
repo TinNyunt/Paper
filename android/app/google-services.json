@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481294508944",
+    "project_id": "wallpaper-eff2f",
+    "storage_bucket": "wallpaper-eff2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481294508944:android:318ee1cd892345cad1c915",
+        "android_client_info": {
+          "package_name": "com.example.paper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8nNziKArZGr3tlfWs0SE2xYXYUeISMgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
